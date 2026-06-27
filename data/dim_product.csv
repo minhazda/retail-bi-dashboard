@@ -1,0 +1,88 @@
+ProductID,Product,Category,UnitPrice
+10001,Home Decor Item 1,Home Decor,41.2
+10002,Home Decor Item 2,Home Decor,36.7
+10003,Home Decor Item 3,Home Decor,16.33
+10004,Home Decor Item 4,Home Decor,19.11
+10005,Home Decor Item 5,Home Decor,40.32
+10006,Home Decor Item 6,Home Decor,8.19
+10007,Home Decor Item 7,Home Decor,38.39
+10008,Home Decor Item 8,Home Decor,37.49
+10009,Home Decor Item 9,Home Decor,25.31
+10010,Home Decor Item 10,Home Decor,19.21
+10011,Home Decor Item 11,Home Decor,18.3
+10012,Home Decor Item 12,Home Decor,17.43
+10013,Home Decor Item 13,Home Decor,24.47
+10014,Home Decor Item 14,Home Decor,26.67
+10015,Home Decor Item 15,Home Decor,28.48
+10016,Kitchen Item 1,Kitchen,59.75
+10017,Kitchen Item 2,Kitchen,48.6
+10018,Kitchen Item 3,Kitchen,39.22
+10019,Kitchen Item 4,Kitchen,59.39
+10020,Kitchen Item 5,Kitchen,16.84
+10021,Kitchen Item 6,Kitchen,13.81
+10022,Kitchen Item 7,Kitchen,38.69
+10023,Kitchen Item 8,Kitchen,7.42
+10024,Kitchen Item 9,Kitchen,6.96
+10025,Kitchen Item 10,Kitchen,33.32
+10026,Kitchen Item 11,Kitchen,30.64
+10027,Kitchen Item 12,Kitchen,55.44
+10028,Kitchen Item 13,Kitchen,39.61
+10029,Gifts Item 1,Gifts,16.42
+10030,Gifts Item 2,Gifts,9.68
+10031,Gifts Item 3,Gifts,3.32
+10032,Gifts Item 4,Gifts,8.19
+10033,Gifts Item 5,Gifts,21.68
+10034,Gifts Item 6,Gifts,8.42
+10035,Gifts Item 7,Gifts,12.98
+10036,Gifts Item 8,Gifts,3.1
+10037,Gifts Item 9,Gifts,25.41
+10038,Gifts Item 10,Gifts,7.17
+10039,Gifts Item 11,Gifts,10.23
+10040,Gifts Item 12,Gifts,26.77
+10041,Stationery Item 1,Stationery,8.14
+10042,Stationery Item 2,Stationery,12.86
+10043,Stationery Item 3,Stationery,9.96
+10044,Stationery Item 4,Stationery,11.38
+10045,Stationery Item 5,Stationery,2.28
+10046,Stationery Item 6,Stationery,8.58
+10047,Stationery Item 7,Stationery,8.11
+10048,Stationery Item 8,Stationery,13.2
+10049,Stationery Item 9,Stationery,6.06
+10050,Stationery Item 10,Stationery,9.37
+10051,Stationery Item 11,Stationery,1.83
+10052,Stationery Item 12,Stationery,6.43
+10053,Stationery Item 13,Stationery,5.52
+10054,Garden Item 1,Garden,67.14
+10055,Garden Item 2,Garden,36.56
+10056,Garden Item 3,Garden,78.51
+10057,Garden Item 4,Garden,51.3
+10058,Garden Item 5,Garden,52.35
+10059,Garden Item 6,Garden,54.66
+10060,Garden Item 7,Garden,57.35
+10061,Garden Item 8,Garden,20.56
+10062,Garden Item 9,Garden,40.82
+10063,Garden Item 10,Garden,26.77
+10064,Garden Item 11,Garden,38.17
+10065,Toys Item 1,Toys,7.48
+10066,Toys Item 2,Toys,38.84
+10067,Toys Item 3,Toys,11.74
+10068,Toys Item 4,Toys,28.18
+10069,Toys Item 5,Toys,14.82
+10070,Toys Item 6,Toys,35.47
+10071,Toys Item 7,Toys,27.84
+10072,Toys Item 8,Toys,8.74
+10073,Toys Item 9,Toys,34.42
+10074,Toys Item 10,Toys,38.02
+10075,Lighting Item 1,Lighting,56.44
+10076,Lighting Item 2,Lighting,23.35
+10077,Lighting Item 3,Lighting,27.01
+10078,Lighting Item 4,Lighting,84.38
+10079,Lighting Item 5,Lighting,55.08
+10080,Lighting Item 6,Lighting,26.08
+10081,Lighting Item 7,Lighting,80.96
+10082,Lighting Item 8,Lighting,62.04
+10083,Lighting Item 9,Lighting,56.44
+10084,Lighting Item 10,Lighting,41.35
+10085,Lighting Item 11,Lighting,44.05
+10086,Lighting Item 12,Lighting,30.68
+10087,Lighting Item 13,Lighting,14.97
