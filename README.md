@@ -8,12 +8,11 @@ roles ask for most — **Power BI, DAX, data modelling, dashboards, and reportin
 > **Author:** Md Minhazur Rahman · [github.com/minhazda](https://github.com/minhazda) ·
 > [linkedin.com/in/mohammadminhaz](https://www.linkedin.com/in/mohammadminhaz/)
 
-## ▶ Live dashboard
+## Status
 
-<!-- After publishing (step 7), paste your Publish-to-web link and a screenshot here -->
-_Published link: (add after publishing)_
-
-![dashboard screenshot](docs/dashboard.png)
+The data model, DAX measures, and step-by-step build guide below are complete —
+the report itself is built interactively in Power BI Desktop, so the published
+dashboard link and screenshot land here once that manual build step is done.
 
 ## What it demonstrates
 
